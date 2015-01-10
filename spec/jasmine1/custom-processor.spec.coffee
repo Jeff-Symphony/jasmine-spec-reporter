@@ -1,5 +1,5 @@
 require('./lib/test-helper.coffee')
-SpecReporter = require('../src/jasmine-spec-reporter.js')
+SpecReporter = require('../../src/jasmine-spec-reporter.js')
 TestProcessor = require('./lib/test-processor.js')
 
 describe 'spec reporter', ->

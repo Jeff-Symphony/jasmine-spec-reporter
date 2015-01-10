@@ -1,0 +1,9 @@
+{
+  "spec_dir": "spec/jasmine2",
+  "spec_files": [
+    "**/*[sS]pec.coffee"
+  ],
+  "helpers": [
+    "helper/**/*.js"
+  ]
+}
